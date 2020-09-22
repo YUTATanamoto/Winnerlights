@@ -6,5 +6,5 @@
 - [Development rules](documents/ios-development-rules.md)
 ## Other Documents  
 - [BLE Mesh](documents/ble-mesh.md)  
-- [Nordic Mesh Library](documents/ble-mesh.md)  
+- [Nordic Mesh Library](documents/nordic-mesh-library.md)  
 - [System Design](documents/system-design.md)
